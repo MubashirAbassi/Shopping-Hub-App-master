@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39d8fa67-a531-4792-9454-ac47c91c9376" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rzp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/shopping_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping_app/lib/screens/cart_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/shopping_app/lib/screens/cart_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping_app/lib/screens/payment/payment_method.dart" beforeDir="false" afterPath="$PROJECT_DIR$/shopping_app/lib/screens/payment/payment_method.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/shopping_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping_app/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[My_Device_API_29]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nXbGCQJBksOyNioZpdMw81NzjD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github repository\Shopping-Hub-App01" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aqib\Documents\GitHub\Shopping-Hub-App\shopping_app\lib\screens\payment" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/shopping_app/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39d8fa67-a531-4792-9454-ac47c91c9376" name="Default Changelist" comment="" />
+      <created>1611539284448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611539284448</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623797220537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1623797220537" />
+    <state x="110" y="120" width="1146" height="488" key="AVDManager" timestamp="1624701794291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1624701794291" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1625336663381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1625336663381" />
+    <state width="981" height="116" key="GridCell.Tab.0.bottom" timestamp="1625671852423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="981" height="116" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625671852423" />
+    <state width="981" height="116" key="GridCell.Tab.0.center" timestamp="1625671852423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="981" height="116" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625671852423" />
+    <state width="981" height="116" key="GridCell.Tab.0.left" timestamp="1625671852422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="981" height="116" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625671852422" />
+    <state width="981" height="116" key="GridCell.Tab.0.right" timestamp="1625671852423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="981" height="116" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625671852423" />
+    <state x="263" y="107" key="IDE.errors.dialog" timestamp="1619208409152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="107" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1619208409152" />
+    <state x="310" y="18" key="SettingsEditor" timestamp="1624385630221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1624385630221" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623800463445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1623800463445" />
+  </component>
+</project>
